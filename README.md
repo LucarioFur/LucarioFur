@@ -2,7 +2,7 @@
 
 **Firmware en C · Electrónica aplicada**
 
-Tengo unos doce años de experiencia práctica con microcontroladores y formación autodidacta. Desarrollo equipos propios, desde la electrónica hasta la programación y el montaje, con productos que ya utilizan clientes.
+Llevo unos doce años trabajando con microcontroladores. Soy autodidacta y desarrollo mis propios equipos, desde la electrónica hasta la programación y el montaje. Algunos de ellos ya los utilizan clientes en su trabajo.
 
 ### Competencias
 
@@ -14,8 +14,8 @@ Tengo unos doce años de experiencia práctica con microcontroladores y formaci�
 
 | Trabajo | Qué puedes encontrar |
 |---|---|
-| [Portafolio de sistemas embebidos](https://github.com/LucarioFur/portfolio-embebidos) | Aplicaciones de diagnóstico, interfaces y comunicación; mi aportación y el estado de cada proyecto. |
-| [Estudio de control de motores](https://github.com/LucarioFur/BLDC-3-PHASE-WITH-ATMEGA88PA) | Prototipo público con ATmega88PA, desarrollado en 2024 como parte de mi aprendizaje. |
+| [Portafolio de sistemas embebidos](https://github.com/LucarioFur/portfolio-embebidos) | Cuento qué he desarrollado en diagnóstico, interfaces y comunicación. |
+| [Estudio de control de motores](https://github.com/LucarioFur/BLDC-3-PHASE-WITH-ATMEGA88PA) | Comparto un prototipo con ATmega88PA que hice en 2024 para aprender. |
 
 ### Disponibilidad
 
